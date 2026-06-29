@@ -218,5 +218,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 .vscode/
-/workspaces/llmzoomcamp-2026/llm-zoomcamp-hw2/models
+/workspaces/llmzoomcamp-2026/llm-zoomcamp-hw2/models/
+./models/
 .env
