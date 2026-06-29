@@ -156,6 +156,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+llm-zoomcamp-hw2/models/
 
 # Spyder project settings
 .spyderproject
@@ -218,6 +219,5 @@ __marimo__/
 .streamlit/secrets.toml
 
 .vscode/
-/workspaces/llmzoomcamp-2026/llm-zoomcamp-hw2/models/
 ./models/
 .env
